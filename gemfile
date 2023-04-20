@@ -1,0 +1,10 @@
+ource "https://rubygems.org"
+ruby '3.0.0'
+gem 'rspec'
+gem 'pry'
+gem 'rubocop'
+gem 'dotenv'
+gem 'http'
+gem 'readline'
+gem 'nokogiri'      
+gem 'open-uri'
